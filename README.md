@@ -1,6 +1,3 @@
-# 💫 About Me:
-Javascript Developer<br>Currently trying to learn go & java
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/razz.js) 
